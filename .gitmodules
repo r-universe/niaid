@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dsb"]
-	path = dsb
-	url = https://github.com/niaid/dsb
-	shallow = true
-	registered = true
 [submodule "HDStIM"]
 	path = HDStIM
 	url = https://github.com/niaid/hdstim

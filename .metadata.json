@@ -1,9 +1,5 @@
 [
   {
-    "package": "dsb",
-    "oncran": true
-  },
-  {
     "package": "HDStIM",
     "oncran": true
   }
